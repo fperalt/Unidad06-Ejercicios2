@@ -1,3 +1,5 @@
+package CMJ;
+
 /*
  a) !(a > b && 2 * a <= b)
  b) b++ > 3 || a + b <= 8 && !(a > b)
