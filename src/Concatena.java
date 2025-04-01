@@ -10,7 +10,7 @@
 public class Concatena {
 
     public static void main(String[] args) {
-        String a = "hola";
+        String a = "hola hola";
         String b = " adios";
         String valor = "hola";
 
